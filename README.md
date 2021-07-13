@@ -6,9 +6,6 @@ Topics Covered
 
 Command Line Argument
 
-
-
-No. 	Hands-on Assignment 	Topics Covered 	Status
 1 	
 
  Write a Program that accepts two Strings as command line arguments and generate the output in a specific way as given below.
